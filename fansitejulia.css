@@ -1,0 +1,155 @@
+/*Actualités*/
+
+
+.Bodyactju{
+	font-family: 'IM Fell DW Pica', serif;
+	font-size: 30px;
+	overflow: visible;
+	background-image: url(Images/thumb-1920-84316.jpg);
+	background-attachment: fixed;
+	background-size:;
+	width: auto;
+	color: white;
+
+
+
+}
+
+.h1{
+	text-align: center;
+}
+
+.flexactu1ju{
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+	border-radius:  20px; 
+	border-color: red;
+	border:solid black 5px;
+	width: 1500px;
+	margin-top: 6rem;
+
+}
+
+#actu1ju{
+	position: right;
+	margin: 10rem;
+	margin-top:14rem;
+}
+#Samaccju{
+	margin: 10rem;
+	width: 400px;
+	margin-top: 12rem;
+	border-radius:  20px;
+}
+.flexactu2ju{
+	display: flex;
+	flex-direction: row-reverse;
+	justify-content: space-between;
+	border-radius: white 20px; 
+	border:solid black 5px;
+	width: 1500px;
+	margin-left: 12rem;
+	margin-top: 6rem;
+	
+}
+
+#actu2ju{
+	position: right;
+}	
+
+#Maxju{
+
+	margin-top: 5rem;
+	width: 400px;
+	margin-right: 10rem;
+	border-radius:20px;
+	
+}
+
+	
+
+.sectionflexju{
+	display: flex;
+	flex-direction: column;
+	margin-left: 10rem;
+}
+
+#Vidaccju{
+	width: 500px;
+	margin-top: 9rem;
+	margin-right: 5rem;
+	border-radius: 20px;
+}
+
+#Imgaccju{
+	margin: 10rem;
+	width: 400px;
+}
+
+#JDPayneaccju{
+	width: 400px;
+	margin-top: 10rem;
+	margin-left: 5rem;
+	border-radius: 20px;
+}
+
+#WillPoulaccju{
+	width: 400px;
+	margin-right: 5rem;
+	margin-top: 6rem;
+	border-radius: 20px;
+}
+
+#ringaccju{
+	width: 400px;
+	margin-top: 12rem;
+	margin-left: 5rem;
+}
+
+#Consoleaccju{
+	width: 400px;
+	margin-top: 10rem;
+	margin-left: 10rem;
+	border-radius: 20px;
+}
+
+.vignets {
+    
+    animation: fadein 15s;
+    -moz-animation: fadein 15s; /* Firefox */
+    -webkit-animation: fadein 15s; /* Safari et Chrome */
+    -o-animation: fadein 15s; /* Opera */
+}
+@keyframes fadein {
+    from {
+        opacity:0;
+    }
+    to {
+        opacity:1;
+    }
+}
+@-moz-keyframes fadein { /* sur Firefox */
+    from {
+        opacity:0;
+    }
+    to {
+        opacity:1;
+    }
+}
+@-webkit-keyframes fadein { /* sur Safari et Chrome */
+    from {
+        opacity:0;
+    }
+    to {
+        opacity:1;
+    }
+}
+@-o-keyframes fadein { /* sur Opera */
+    from {
+        opacity:0;
+    }
+    to {
+        opacity: 1;
+    }
+}
