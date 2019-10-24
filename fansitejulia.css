@@ -15,9 +15,11 @@
 
 }
 
+
 .h1{
 	text-align: center;
 }
+
 
 .flexactu1ju{
 	display: flex;
@@ -31,22 +33,27 @@
 
 }
 
+
 #actu1ju{
 	position: right;
 	margin: 10rem;
 	margin-top:14rem;
 }
+
+
 #Samaccju{
 	margin: 10rem;
 	width: 400px;
 	margin-top: 12rem;
 	border-radius:  20px;
 }
+
+
 .flexactu2ju{
 	display: flex;
 	flex-direction: row-reverse;
 	justify-content: space-between;
-	border-radius: white 20px; 
+	border-radius:  20px; 
 	border:solid black 5px;
 	width: 1500px;
 	margin-left: 12rem;
@@ -54,9 +61,11 @@
 	
 }
 
+
 #actu2ju{
 	position: right;
 }	
+
 
 #Maxju{
 
@@ -75,6 +84,8 @@
 	margin-left: 10rem;
 }
 
+
+
 #Vidaccju{
 	width: 500px;
 	margin-top: 9rem;
@@ -82,10 +93,14 @@
 	border-radius: 20px;
 }
 
+
+
 #Imgaccju{
 	margin: 10rem;
 	width: 400px;
 }
+
+
 
 #JDPayneaccju{
 	width: 400px;
@@ -94,6 +109,8 @@
 	border-radius: 20px;
 }
 
+
+
 #WillPoulaccju{
 	width: 400px;
 	margin-right: 5rem;
@@ -101,11 +118,15 @@
 	border-radius: 20px;
 }
 
+
+
 #ringaccju{
 	width: 400px;
 	margin-top: 12rem;
 	margin-left: 5rem;
 }
+
+
 
 #Consoleaccju{
 	width: 400px;
@@ -114,6 +135,8 @@
 	border-radius: 20px;
 }
 
+
+
 .vignets {
     
     animation: fadein 15s;
@@ -121,6 +144,8 @@
     -webkit-animation: fadein 15s; /* Safari et Chrome */
     -o-animation: fadein 15s; /* Opera */
 }
+
+
 @keyframes fadein {
     from {
         opacity:0;
@@ -129,6 +154,8 @@
         opacity:1;
     }
 }
+
+
 @-moz-keyframes fadein { /* sur Firefox */
     from {
         opacity:0;
@@ -137,6 +164,8 @@
         opacity:1;
     }
 }
+
+
 @-webkit-keyframes fadein { /* sur Safari et Chrome */
     from {
         opacity:0;
@@ -145,6 +174,8 @@
         opacity:1;
     }
 }
+
+
 @-o-keyframes fadein { /* sur Opera */
     from {
         opacity:0;
@@ -153,3 +184,167 @@
         opacity: 1;
     }
 }
+
+/*Realisation*/
+
+
+.flexrea1ju{
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+	border-radius:  20px; 
+	border-color: red;
+	border:solid black 5px;
+	width: 1500px;
+	margin-top: 6rem;
+
+}
+
+
+.flexarea2ju{
+	display: flex;
+	flex-direction: row-reverse;
+	justify-content: space-between;
+	border-radius:  20px; 
+	border:solid black 5px;
+	width: 1500px;
+	margin-left: 12rem;
+	margin-top: 6rem;
+	
+}
+
+
+
+#Peterju{
+
+	margin-top: 5rem;
+	width: 400px;
+	margin-right: 10rem;
+	border-radius:20px;
+	
+}
+
+
+
+#Tolkienju{
+	margin: 10rem;
+	width: 400px;
+	margin-top: 12rem;
+	border-radius:  20px;
+}
+
+
+
+#commuimgju{
+	width: 240px;
+	margin-top: 12rem;
+	margin-left: 5rem;
+	border-radius: 20px;
+}
+
+
+
+#commuvidju{
+	width: 400px;
+	margin-top: 12rem;
+	margin-right: 5rem;
+	border-radius: 20px;
+}
+
+
+
+#deuxtourimgju{
+	width: 240px;
+	margin-right: 5rem;
+	margin-top: 12rem;
+	border-radius: 20px;
+}
+
+
+
+#deuxtourvidju{
+	width: 400px;
+	margin-top: 12rem;
+	margin-right: 5rem;
+	border-radius: 20px;
+}
+
+
+
+#roiimgju{
+	width: 240px;
+	margin-top: 12rem;
+	margin-left: 5rem;
+}
+
+
+#roividju{
+	width: 400px;
+	margin-top: 12rem;
+	margin-right: 5rem;
+	border-radius: 20px;
+}
+
+
+
+
+#voyageimgju{
+	width: 240px;
+	margin-top: 12rem;
+	margin-left: 5rem;
+}
+
+
+#voyagevidju{
+	width: 450px;
+	margin-top: 12rem;
+	margin-right: 5rem;
+	border-radius: 20px;
+}
+
+
+
+#smaugimgju{
+	width: 240px;
+	margin-top: 12rem;
+	margin-left: 5rem;
+}
+
+
+#smaugvidju{
+	width: 450px;
+	margin-top: 12rem;
+	margin-right: 5rem;
+	border-radius: 20px;
+}
+
+
+#batailleimgju{
+	width: 240px;
+	margin-top: 12rem;
+	margin-left: 5rem;
+}
+
+
+#bataillevidju{
+	width: 450px;
+	margin-top: 12rem;
+	margin-right: 5rem;
+	border-radius: 20px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
